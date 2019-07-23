@@ -6,7 +6,7 @@
   "author": "maoyuyang <maoyuyang@baidu.com>",
   "license": "MIT",
   "scripts": {
-    "cl": "conventional-changelog -p angular -i CHANGELOG.md -s",
+    "cl": "conventional-changelog -p angular -i CHANGELOG.md -s -r 2",
     "h": "conventional-changelog --help"
   },
   "dependencies": {
