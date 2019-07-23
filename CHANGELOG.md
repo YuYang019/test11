@@ -1,3 +1,13 @@
+## [1.0.4](https://github.com/maoyuyang/test11/compare/v1.0.3...v1.0.4) (2019-07-23)
+
+
+### Features
+
+* 1213 ([3f87d1c](https://github.com/maoyuyang/test11/commit/3f87d1c))
+* 3232 ([eda0b58](https://github.com/maoyuyang/test11/commit/eda0b58))
+
+
+
 ## [1.0.3](https://github.com/maoyuyang/test11/compare/v1.0.2...v1.0.3) (2019-07-23)
 
 
