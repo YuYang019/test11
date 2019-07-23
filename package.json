@@ -1,0 +1,14 @@
+{
+  "name": "test11",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/maoyuyang/test11.git",
+  "author": "maoyuyang <maoyuyang@baidu.com>",
+  "license": "MIT",
+  "scripts": {
+    "cl": "conventional-changelog -p angular -i CHANGELOG.md -s"
+  },
+  "dependencies": {
+    "conventional-changelog-cli": "^2.0.21"
+  }
+}
